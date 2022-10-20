@@ -4,4 +4,4 @@ let richiestacolore = prompt("qualè il tuo colore preferito?");
 document.getElementById("rispostanome").innerHTML = richiestanome;
 document.getElementById("rispostacognome").innerHTML = richiestacognome;
 document.getElementById("rispostacolore").innerHTML = richiestacolore;
-document.getElementById ('somma').innerHTML = 'rispostanome + rispostacognome + richiestacolore + 22';
+document.getElementById ('somma').innerHTML = 'rispostanomerispostacognomerichiestacolore22';
